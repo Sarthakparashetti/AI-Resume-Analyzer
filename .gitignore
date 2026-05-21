@@ -5,3 +5,5 @@ build/
 uploads/
 backend/uploads/
 backend/venv/
+__pycache__/
+*.pyc
